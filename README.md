@@ -1,2 +1,2 @@
-# at-basic-web-development
+# Basic Web Development
 Training in basic web development.
